@@ -34,3 +34,4 @@ CODSOFT Java Programming Internship
 
 ## Task
 Task 2 - Tic-Tac-Toe AI
+<img width="797" height="653" alt="image" src="https://github.com/user-attachments/assets/fbe4e2de-ebb9-44f8-943e-a53b1f9820a8" />
